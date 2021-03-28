@@ -11,4 +11,3 @@ This project was developed with the following technologies:
 
 Incomplete. 😅
 
-# PeixeCalculator
