@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PeixeCalculator</string>
+    <string name="calcular">calcular</string>
+    <string name="valorFinal">valorFinal</string>
+    <string name="molho_t2">Molho T2</string>
+    <string name="molho_t3">Molho T3</string>
+    <string name="molho_t1">Molho T1</string>
+    <string name="peixes_picados">Peixes Picados</string>
+    <string name="algas">Algas</string>
+
+</resources>
